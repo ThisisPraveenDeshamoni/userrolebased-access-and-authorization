@@ -1,0 +1,6 @@
+Eclipse or Intellj
+mongoDB if possible robot 3t for user interface
+java compiler
+jar files from maven or manual download dependencies
+any server
+after configuration run main class
